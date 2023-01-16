@@ -71,11 +71,11 @@ h3{
     padding-top: 20px;
 }
 
-.footimg .monitor{
+.footimg.monitor{
     background-image: url(../img/monitor.jpg);
 }
 
-.footimg .graph{
+.footimg.graph{
     background-image: url(../img/graph.jpg);
 }
 
