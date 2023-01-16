@@ -10,6 +10,13 @@
     height: 150px;
     background-image: url(../img/pattern.png);
     margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.logo{
+    height: 50px;
+    margin-left: 70px;
+    margin-top: 70px;
 }
 
 .container{
