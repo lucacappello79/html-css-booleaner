@@ -61,13 +61,20 @@ h3{
 .imgfooter{
     color: white;
     font-size: 20px;
-    height: 150px;
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/monitor.jpg);
 }
 
 .imgfooter .one{
-    background-image: url(../img/monitor.jpg);
+   
 }
 
 .imgfooter .two{
     background-image: url(../img/graph.jpg);
+}
+
+.footertext{
+    margin-top:  25px;
+    margin-left: 15px;
 }
