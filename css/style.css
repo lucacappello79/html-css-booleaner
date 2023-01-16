@@ -52,16 +52,33 @@ section{
     background-color: #FFFF00;
 }
 
+table{
+    border-spacing: 0;
+}
+
 .lista{
     margin-left: 20px;
 }
 
 #head{
-    background-color: aqua;
+    background-color: dodgerblue;
 }
 
-td{
+#corpo{
+    background-color: lightblue;
+}
+
+
+td,th{
     text-align: left;
+}
+
+.colsmall{
+    width: 20%;
+}
+
+.colbig{
+    width: 60%;
 }
 
 h3{
