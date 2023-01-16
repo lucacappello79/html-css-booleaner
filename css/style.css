@@ -1,12 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 #top-frame{
     background-color: blue;
     width: 100%;
     height: 150px;
     background-image: url(../img/pattern.png);
+    margin-bottom: 20px;
 }
 
 .container{
+
     margin: auto;
     width: 90vw;
-    border: 1px solid; black;
+    border: 1px solid red;
+}
+
+.sottointestazione{
+    color: lightgrey;
+}
+
+.sottointestazione .bottom{
+    font-size: 12px;
+}
+
+.autore{
+    color: aqua;
+}
+
+.images{
+    margin: 25px auto;
+}
+
+.didascalie{
+    font-size: 12px;
 }
