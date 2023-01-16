@@ -58,23 +58,24 @@ h3{
     font-size: 14px;
 }
 
-.imgfooter{
+.footimg{
     color: white;
     font-size: 20px;
     height: 208px;
     width: 312px;
+    margin: 15px 0;
+    padding-top: 20px;
+}
+
+.footimg .monitor{
     background-image: url(../img/monitor.jpg);
 }
 
-.imgfooter .one{
-   
-}
-
-.imgfooter .two{
+.footimg .graph{
     background-image: url(../img/graph.jpg);
 }
 
 .footertext{
-    margin-top:  25px;
-    margin-left: 15px;
+    font-size: 30px;
+    margin-left: 20px;
 }
