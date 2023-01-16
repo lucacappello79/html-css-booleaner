@@ -1,5 +1,12 @@
 #top-frame{
+    background-color: blue;
     width: 100%;
     height: 150px;
     background-image: url(../img/pattern.png);
+}
+
+.container{
+    margin: auto;
+    width: 90vw;
+    border: 1px solid; black;
 }
