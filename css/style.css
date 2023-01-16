@@ -6,7 +6,7 @@
 
 #top-frame{
     background-color: cornflowerblue;
-    width: 100%;
+    width: 100vw;
     height: 150px;
     background-image: url(../img/pattern.png);
     margin-bottom: 20px;
