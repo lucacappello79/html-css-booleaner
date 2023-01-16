@@ -45,6 +45,10 @@ section{
     background-color: #FFFF00;
 }
 
+.lista{
+    margin-left: 20px;
+}
+
 #head{
     background-color: aqua;
 }
