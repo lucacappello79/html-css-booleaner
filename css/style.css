@@ -6,11 +6,9 @@
 
 #top-frame{
     background-color: cornflowerblue;
-    width: 100vw;
     height: 150px;
     background-image: url(../img/pattern.png);
     margin-bottom: 20px;
-    padding-bottom: 20px;
 }
 
 .logo{
@@ -19,9 +17,9 @@
     margin-top: 70px;
 }
 
-.container{
-    margin: auto;
+header, main, footer{
     width: 90vw;
+    margin: auto;
 }
 
 .sottointestazione{
@@ -43,6 +41,7 @@
 .didascalie{
     font-size: 12px;
 }
+
 
 section{
     margin: 25px 0;
